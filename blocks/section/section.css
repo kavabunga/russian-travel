@@ -1,15 +1,22 @@
 .section {
-  padding: 0 16px;
+  padding: 0 16px 64px;
 }
 
 @media screen and (min-width: 768px) {
   .section {
-    padding: 0 24px;
+    padding: 0 24px 88px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .section {
-    padding: 0 48px;
+    padding: 0 48px 92px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .section {
+    padding-left: 148px;
+    padding-right: 148px;
   }
 }
