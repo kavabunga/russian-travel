@@ -1,0 +1,9 @@
+.section_bottom-gap_small {
+  margin-bottom: 48px;
+}
+
+@media screen and (min-width: 1280px) {
+  .section_bottom-gap_small {
+    margin-bottom: 56px;
+  }
+}

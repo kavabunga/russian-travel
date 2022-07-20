@@ -1,0 +1,15 @@
+.section_bottom-gap_normal {
+  margin-bottom: 64px;
+}
+
+@media screen and (min-width: 768px) {
+  .section_bottom-gap_normal {
+    margin-bottom: 88px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .section_bottom-gap_normal {
+    margin-bottom: 92px;
+  }
+}
