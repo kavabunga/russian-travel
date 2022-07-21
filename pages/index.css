@@ -7,6 +7,8 @@
 @import url("../blocks/section/_bottom-gap/secton_bottom-gap_small.css");
 @import url("../blocks/section/_bottom-gap/section_bottom-gap_normal.css");
 
+@import url("../blocks/link/link.css");
+
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__logo/header__logo.css");
 @import url("../blocks/header/__lang/header__lang.css");
@@ -47,3 +49,8 @@
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
 
 @import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
+
+@import url("../blocks/menu/menu.css");
+@import url("../blocks/menu/__links/menu__links.css");
+@import url("../blocks/menu/__link/menu__link.css");
