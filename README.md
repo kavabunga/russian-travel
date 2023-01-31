@@ -1,15 +1,9 @@
-# Проект: Путешествие по России
+# :steam_locomotive: Journey across Russia
 
-Одностраничный сайт о путешествии по России, созданный как учебный проект курса веб-разработки в Яндекс.Практикуме.
+One-page adaptive landing presenting impressive journey destinations in Russia. The project made at "WEB-development" course at [Yandex.Practicum](https://practicum.yandex.ru/ "Yandex Practicum").
 
-Страница адаптируется к различным размерам экранов. В проекте применяются технологии разметки [flexbox](https://www.doka.guide/css/flexbox-guide/ "Гайд по flexbox на Доке") и [grid](https://www.doka.guide/css/grid-guide/ "Гайд по grid на Доке").
+The project is written in **HTML** and **CSS** languages and uses **Flexbox** and **Grid** layouts. The page adapts for screen size. Browser styles are overwritten by [**normalize.css**](https://necolas.github.io/normalize.css/).
 
-Также, для сброса стилей браузеров используется плагин [normalize.css](https://necolas.github.io/normalize.css/).
+Layout brief: [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-### Макет
-
-[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-### Адрес
-
-Проект доступен на GitHub Pages по адресу: [https://kavabunga.github.io/russian-travel/index.html](https://kavabunga.github.io/russian-travel/index.html)
+Project demo is running here: []()
