@@ -1,4 +1,4 @@
-# :steam_locomotive: Journey across Russia
+# :steam_locomotive: Journey across Russia • ![Status finished](https://badgen.net/badge/status/finished/green)
 
 One-page adaptive landing presenting impressive journey destinations in Russia. The project made at "WEB-development" course at [Yandex.Practicum](https://practicum.yandex.ru/ "Yandex Practicum").
 
